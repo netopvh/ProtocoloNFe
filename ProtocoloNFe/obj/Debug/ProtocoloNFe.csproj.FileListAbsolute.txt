@@ -1,0 +1,5 @@
+C:\Users\pedromedeiros\documents\visual studio 2015\Projects\ProtocoloNFe\ProtocoloNFe\bin\Debug\ProtocoloNFe.exe.config
+C:\Users\pedromedeiros\documents\visual studio 2015\Projects\ProtocoloNFe\ProtocoloNFe\bin\Debug\ProtocoloNFe.exe
+C:\Users\pedromedeiros\documents\visual studio 2015\Projects\ProtocoloNFe\ProtocoloNFe\bin\Debug\ProtocoloNFe.pdb
+C:\Users\pedromedeiros\documents\visual studio 2015\Projects\ProtocoloNFe\ProtocoloNFe\obj\Debug\ProtocoloNFe.exe
+C:\Users\pedromedeiros\documents\visual studio 2015\Projects\ProtocoloNFe\ProtocoloNFe\obj\Debug\ProtocoloNFe.pdb
